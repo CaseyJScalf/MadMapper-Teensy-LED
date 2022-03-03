@@ -4,6 +4,7 @@ Here is the code to enable MadMapper to communicate with a Teensy 4.0 and direct
 This way you can easily light up LEDs from a computer without too much setup.
 
 This can do much longer lengths of LED strips. Much longer and you will need a larger power supply as the USB cable from a computer can only supply so much.
+
 See a video walkthrough here: https://www.youtube.com/embed/Bk2nNnpYyfI
 
 ![Madmapper Teensy LED Thumbnail](https://user-images.githubusercontent.com/7865492/156482334-8a4ae503-4a65-4b67-a464-8819659905b6.jpg)
